@@ -14,3 +14,6 @@ The components are:
    
 2) an arduino ethernet (developed on a nanode) sketch that subscribes to the rgb stream above and sets the colour
    of a WS2812 LED
+
+A (very) short sample video showing a client node [hacked ikea 'spoka'] responding to a tweet is
+available: https://www.youtube.com/watch?v=RNSCWHd95Ho
